@@ -1,3 +1,3 @@
 # kartik-demo
 This is my first Git Repository
-Author - Kartik Gupta
+.Author - Kartik Gupta
